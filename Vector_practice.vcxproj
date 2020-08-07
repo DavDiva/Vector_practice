@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Erase_vector.cpp" />
+    <ClCompile Include="Find_algorithm.cpp" />
+    <ClCompile Include="Find_if_algorithm.cpp" />
     <ClCompile Include="Vector_practice.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

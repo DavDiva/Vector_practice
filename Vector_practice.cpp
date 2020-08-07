@@ -8,7 +8,7 @@ using namespace std;
 
 int main()
 {
-   /* vector<int> vect{};
+    vector<int> vect{};
    int size = vect.size();
     cin >> size;
    
@@ -23,7 +23,7 @@ int main()
     for (int i = 0; i < size; i++)
     {
         cout<< vect[i];
-    }*/
+    }
 
     vector<string>vect_str(10,"nothing");
     vect_str.push_back("one");
@@ -149,25 +149,8 @@ int main()
     
 }
 
-//int main() {
-//    vector<int> vect;
-//    int N, x, a, b;
-//    cin >> N;
-//    for (int i = 0; i < N; i++)
-//    {
-//        int value;
-//        cin >> value;
-//        vect.push_back(value);
-//    }
-//    cin >> x >> a >> b;
-//    vect.erase(vect.begin() + (x - 1));
-//    vect.erase(vect.begin() + (a - 1), vect.begin() + (b - 1));
-//    cout << vect.size() << endl;
-//    for (int i = 0; i < vect.size(); i++)
-//    {
-//        cout << vect[i] << " ";
-//    }
-//    return 0;
-//}
+
+
+
 
 

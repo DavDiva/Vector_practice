@@ -142,6 +142,7 @@
     <ClCompile Include="Erase_vector.cpp" />
     <ClCompile Include="Find_algorithm.cpp" />
     <ClCompile Include="Find_if_algorithm.cpp" />
+    <ClCompile Include="for_each_algorithm.cpp" />
     <ClCompile Include="sort_algorithm.cpp" />
     <ClCompile Include="Vector_practice.cpp" />
   </ItemGroup>

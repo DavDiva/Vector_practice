@@ -2,7 +2,7 @@
 //#include <vector>
 //#include <algorithm>
 //using namespace std;
-
+//
 //int main() {
 //    vector<int> vect;
 //    int N, x, a, b;

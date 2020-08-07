@@ -2,9 +2,9 @@
 //#include <vector>
 //#include <algorithm>
 //using namespace std;
-
-                                                    /* find() Returns an iterator to the first element in the range[first, last) 
-                                                    that compares equal to val.If no such element is found, the function returns last.*/
+//
+//                                                    /* find() Returns an iterator to the first element in the range[first, last) 
+//                                                    that compares equal to val.If no such element is found, the function returns last.*/
 //int main()
 //{
 //	int array[] = { 2,3,6,7,90,55 };

@@ -8,9 +8,9 @@ using namespace std;
 
                                                         //The elements are compared using operator< for the first version, and comp for the second.
                                                         
-														/* comp - Binary function that accepts two elements in the range as arguments, 
-														and returns a value convertible to bool.The value returned indicates whether the element 
-														passed as first argument is considered to go before the second in the specific strict weak ordering it defines.
+							/* comp - Binary function that accepts two elements in the range as arguments, 
+							and returns a value convertible to bool.The value returned indicates whether the element 
+							passed as first argument is considered to go before the second in the specific strict weak ordering it defines.
                                                         The function shall not modify any of its arguments.
                                                         This can either be a function pointer or a function object.*/
 
